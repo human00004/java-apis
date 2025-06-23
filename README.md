@@ -144,11 +144,15 @@ public class Main extends WriteFile{
 
 ## About on this library
 Type: File Manager
+
 Version: 1.0.0.0
+
 License: MIT
+
 URL: https://github.com/human00004/java-apis
 
 ## Description
 Why? File manage with more less details.
+
 NOTE: The classes (outside FileManagerException class) is abstract. If the code of "new ExampleClass()" instead of "new ExampleClass(){}",
 give an error.
